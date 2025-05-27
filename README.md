@@ -2,7 +2,6 @@
 
 Welcome to **Riley**, your multi-platform, personality-driven chatbot for Instagram and Snapchat. Riley isn’t just another bot—she’s a fictional 22-year-old art history student in Berlin, with a sharp wit, a unique style, and a memory for your conversations. She’s designed to make every chat feel real, engaging, and just a little bit mysterious.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ Welcome to **Riley**, your multi-platform, personality-driven chatbot for Instag
 - **Proxy Support:** Robust proxy management for reliable Instagram connectivity.
 - **Safety First:** Strict controls to prevent inappropriate or unsafe interactions.
 
----
 
 ## 🗂️ Project Structure
 
@@ -42,7 +40,6 @@ instagram-chatbot/
 └── README.md                    # This file
 ```
 
----
 
 ## 🛠️ Setup & Installation
 
@@ -66,7 +63,6 @@ instagram-chatbot/
 4. **(Optional) Edit Riley’s personality**
    - Tweak [data/personality.txt](data/personality.txt) to change Riley’s style, memory, or slang.
 
----
 
 ## 💬 Usage
 
@@ -87,15 +83,11 @@ For local, terminal-based chat with Riley:
 python chat_local.py
 ```
 
----
-
 ## ✨ Customization
 
 - **Personality:** Edit [data/personality.txt](data/personality.txt) to shape Riley’s character, memory, and slang.
 - **Slang & Style:** Add or remove slang terms, tweak her background, or adjust her communication style.
 - **Safety:** Riley will never initiate conversations or respond after receiving "STOP TEXTING ME".
-
----
 
 ## 🧪 Testing
 
@@ -105,14 +97,10 @@ Run the included test script to simulate conversations and verify Riley’s resp
 python -m tests.test_local
 ```
 
----
-
 ## 🛡️ Safety & Ethics
 
 - Riley will **never** engage in illegal, unethical, or harmful conversations.
 - All responses are filtered for safety and appropriateness.
-
----
 
 ## 📄 License
 
@@ -125,7 +113,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 - [Google Gemini](https://ai.google.dev/) for AI-powered conversations
 - [instagrapi](https://github.com/adw0rd/instagrapi) for Instagram automation
 - [Selenium](https://www.selenium.dev/) for Snapchat automation
-
----
 
 > _“Riley is more than code—she’s a vibe.”_
