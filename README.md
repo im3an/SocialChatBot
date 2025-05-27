@@ -45,7 +45,7 @@ instagram-chatbot/
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/im3an/SocialChatBot.git
    cd instagram-chatbot
    ```
 
